@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/infix-converter/static/css/main.895a4851.chunk.css",
+    "main.js": "/infix-converter/static/js/main.03bc741c.chunk.js",
+    "main.js.map": "/infix-converter/static/js/main.03bc741c.chunk.js.map",
+    "runtime-main.js": "/infix-converter/static/js/runtime-main.263fa36b.js",
+    "runtime-main.js.map": "/infix-converter/static/js/runtime-main.263fa36b.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/infix-converter/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d8bab2ea.chunk.js": "/infix-converter/static/js/2.d8bab2ea.chunk.js",
+    "static/js/2.d8bab2ea.chunk.js.map": "/infix-converter/static/js/2.d8bab2ea.chunk.js.map",
+    "static/js/3.e8bf64c6.chunk.js": "/infix-converter/static/js/3.e8bf64c6.chunk.js",
+    "static/js/3.e8bf64c6.chunk.js.map": "/infix-converter/static/js/3.e8bf64c6.chunk.js.map",
+    "index.html": "/infix-converter/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/infix-converter/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.895a4851.chunk.css.map": "/infix-converter/static/css/main.895a4851.chunk.css.map",
+    "static/js/2.d8bab2ea.chunk.js.LICENSE.txt": "/infix-converter/static/js/2.d8bab2ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.263fa36b.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d8bab2ea.chunk.js",
+    "static/css/main.895a4851.chunk.css",
+    "static/js/main.03bc741c.chunk.js"
+  ]
+}
